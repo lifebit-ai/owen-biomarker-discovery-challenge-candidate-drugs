@@ -11,10 +11,11 @@ This can be manually done by (refer to: https://www.ebi.ac.uk/gwas/studies/GCST0
 # Section A:  Methodology Protocol Design
 For protocol Design open word document:  
 
-'Methodology and protocol design for identifying candidate drugs for Asthma.docx'
+### 'Methodology and protocol design for identifying candidate drugs for Asthma.docx'
 
 # Section B: Solution Implementation
-This is detailed in Section A protocol design. R scripts for each protocol are as follows  
+All coding scripts used in solution implementation are detailed in Section A.  
+This includes the following R scripts:
 
 ### 1. GWAStoGRange.r:
 
