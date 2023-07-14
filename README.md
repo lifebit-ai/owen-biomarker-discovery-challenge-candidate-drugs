@@ -4,7 +4,7 @@ This repository contains the complete methodology and scripts for identifying po
 The analysis pipeline is based on data from Genome-Wide Association Studies (GWAS), eQTL data, linkage disequilibrium data, 
 and gene set enrichment analyses. The primary programming language used for this analysis is R.
 
-## requirements
+# Requirements
 This repository does not include the asthma summary statistics file required to replicate the analysis. 
 This can be manually done by (refer to: https://www.ebi.ac.uk/gwas/studies/GCST006862) 
 
