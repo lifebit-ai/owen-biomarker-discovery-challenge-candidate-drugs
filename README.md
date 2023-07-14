@@ -6,7 +6,7 @@ and gene set enrichment analyses. The primary programming language used for this
 
 # Requirements
 This repository does not include the asthma summary statistics file required to replicate the analysis. 
-This can be manually done by (refer to: https://www.ebi.ac.uk/gwas/studies/GCST006862). This needs to be saved in the 'raw data' folder 
+This can be manually done by downloading data from the GWAS Catalog online database (refer to: https://www.ebi.ac.uk/gwas/studies/GCST006862). This needs to be saved in the 'raw data' folder 
 
 # Section A:  Methodology Protocol Design
 For protocol Design open word document:  
