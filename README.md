@@ -40,3 +40,7 @@ In the example code the following eQTL profiles were examined: IKZF3, GSDMB, ORL
 In the provided example code, colocalization was examined between the previously identified locus on chromosome 17 and eQTL data for GSDMB in lung tissue.
 While the script is incomplete due to the inability to procure an LD matrix for eQTL data, the code structure remains insightful for understanding the overall process.
 This colocalization analysis should be repeated for each eQTL profile to validate shared causal variant between putative causal asthma variant and gene expression.
+
+## Visualising solution
+You can view selected sections of the following files: GWAStoGRange.r, DefineLocus.r, and StatisticalFineMap.r in the document titled SolutionImplementation.html.
+
